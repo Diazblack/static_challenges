@@ -1,0 +1,19 @@
+a:link {
+  color: white;
+  text-decoration-line: none;
+}
+.container {
+  display: grid;
+  grid-template-columns: 12fr 1fr;
+}
+
+.upper_bar {
+  background: black;
+  height: 70px;
+  color: white;
+}
+
+.login_block  {
+  background: green;
+  font: white;
+}
